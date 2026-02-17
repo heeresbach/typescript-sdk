@@ -35,7 +35,7 @@
     },
     "dependencies": {
         "@modelcontextprotocol/client": "workspace:^",
-        "ajv": "catalog:runtimeShared",
+        "ajv": "8.18.0",
         "zod": "catalog:runtimeShared"
     },
     "devDependencies": {
